@@ -4,15 +4,15 @@
 # Copyleft (C) 2007 Marcelo Garrone <marcelo.garrone@gmail.com>
 # This program is free software; you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
-# the Free Software Foundation; either version 2 of the License, or (at
+# the Free Software Foundation; either version 2 of the License; or (at
 # your option) any later version.
 Biblia;Sagrada Escritura;Antiguo Testamento;Nuevo Testamento
 CD-ROM;CD;disco compacto
-Creador, constructor, demiurgo, artista;Hacedor;Edificador, artífice
+Creador; constructor; demiurgo; artista;Hacedor;Edificador; artífice
 Dios;Todopoderoso;Jehová;Altísimo;Alá
 Jesucristo;Dios;Jesús;Cristo;Nazareno;Redentor;Mesías;Salvador;Señor
 Pelota;Balón;esférico;bola;canica;globo
-Representar;simbolizar, figurar, personificar, aparentar;encarnar, personalizar
+Representar;simbolizar; figurar; personificar; aparentar;encarnar; personalizar
 UCI;unidad de cuidados intensivos;UVI
 Yahvé;Jehová;Dios;Señor;Altísimo;Creador;Padre;Todopoderoso
 a priori;antes;anticipadamente;de antemano;con antelación;con anterioridad;previamente;por lo que precede
@@ -96,7 +96,7 @@ aberrante;antinatural;anormal;extraviado;contranatural
 aberrar;descarriarse;desviarse;extraviarse;equivocarse;errar;fallar
 abertura;agujero;orificio;hueco;rendija;rajadura;boquete;brecha;paso;angostura;portillo;embocadura;rotura;fisura;grieta
 abierto;despejado;libre;descubierto;destapado;hendido;rajado;campechano
-abierto;franco, amplio, despejado, extenso
+abierto;franco; amplio; despejado; extenso
 abigarrado;recargado;sobrecargado;barroco;charro;heterogéneo;confuso;embarullado;estrambótico;desbordante;excesivo;pomposo;profuso
 abigarrar;recargar;sobrecargar;mezclar
 abisal;abismal;profundo;hondo;insondable
@@ -1381,7 +1381,7 @@ atentar;violar;vulnerar;quebrantar;infringir;traspasar;transgredir;burlar;atrope
 ateo;impío;irreligioso;descreído
 aterir;arrecirse;helar;congelar;pasmar;pelarse de frío
 aterrar;aterrorizar;espantar;horrorizar;espeluznar;horripilar;atemorizar;estremecer
-atestado;poblado, concurrido,
+atestado;poblado; concurrido;
 atestar;atestiguar;testificar;levantar acta
 atezar;broncear;curtir;tostar
 ateísmo;irreligiosidad;impiedad
@@ -5099,10 +5099,10 @@ haragán;gandul;boludo;pelotudo;holgazán;indolente;maula;perezoso;vago;zángano
 haraquiri;harakiri;suicidio
 hastial;frontispicio
 hazaña;correr
-hereje, disidente, disconforme, traidor, irregular;heterodoxo
+hereje; disidente; disconforme; traidor; irregular;heterodoxo
 hereje;heresiarca
 herramienta;útil;utensilio;aparejo
-heterodoxo, informal, inconformista, revolucionari;iconoclasta
+heterodoxo; informal; inconformista; revolucionari;iconoclasta
 hidrónimo;topónimo
 histrión;actor
 hogaza;pan
@@ -6847,7 +6847,7 @@ patente;salvoconducto;cédula;registro;certificado;licencia;documento;diploma
 patria;nación;país;estado;pueblo
 patrio;territorial;regional;local;nacional
 pausadamente;lentamente;paulatinamente;despaciosamente
-pelafustán, mediocre, insignificante, inútil;pelagatos
+pelafustán; mediocre; insignificante; inútil;pelagatos
 pendiente;irresoluto
 percha;valet
 pereza;gandulería;poltronería;desidia;galbana;ignavia (p. us.);pigricia (p. us.);haronía (p. us.);holgazanería;perra;chucha;negligencia
@@ -6881,7 +6881,7 @@ presunto;supuesto
 prevenir;advertir;avisar;alertar;predisponer
 prevenir;precaver;evitar
 prevenir;preparar;aprestar;organizar
-privado;íntimo, secreto, individual, reservado, personal,
+privado;íntimo; secreto; individual; reservado; personal;
 procesadora;computador;ordenador;PC;CPU;computadora
 productividad;rendimiento;incremento;abundancia
 programa;software;aplicación;widget (NoRAE)
@@ -7158,7 +7158,7 @@ rectitud;justicia;integridad;imparcialidad
 recto;derecho;justo;justiciero;íntegro;imparcial
 recuerdo;memoria;conmemoración;rememoración;remembranza;reminiscencia;regalo (fig.);presente;retentiva
 recuerdos;memorias;expresiones;saludos
-recuesta;requerimiento, demanda, exigencia, solicitud
+recuesta;requerimiento; demanda; exigencia; solicitud
 reculada;retroceso
 recular;recejar;retroceder;cejar
 recurrir;acogerse;acudir;apelar
